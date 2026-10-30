@@ -1,0 +1,6 @@
+{
+  "name": "CORAM",
+  "description": "Aplicativo de identificação visual de medicamentos, lembretes sonoros e por voz para idosos e gestão integrada para profissionais e responsáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
